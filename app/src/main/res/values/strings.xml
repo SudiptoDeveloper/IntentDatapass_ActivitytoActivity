@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Class_Practise01</string>
+    <string name="apps_development_project">Apps Development Project</string>
+    <string name="button">LogIn</string>
+    <string name="password">Password</string>
+    <string name="phone_number_or_email_address">Phone Number or Email Address</string>
+    <string name="polski_more">বাংলা . Polski . More...</string>
+    <string name="todo">TODO</string>
+</resources>
